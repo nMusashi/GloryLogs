@@ -14,18 +14,18 @@ from telegram.ext import (
 from telegram.constants import ParseMode
 
 # TOKEN DO BOT
-telbot = "7962833687:AAGv8E6p9gC2MSjpRHukV7SeMRiCR6xiaRM"
+telbot = "XXXXXXXXXX:XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 
 # DIRETÓRIO BASE
-dirzao = r"E:\Tailon\Download\Temporários\split-zdg"
+dirzao = r"E:\User\logs"
 
 # CAMINHO DO BANNER
-banner_path = r"E:\Tailon\Documents\Bot DB Filters\GloryLogs - Source\bg\bg.png"
+banner_path = r"E:\User\bg\bg.png"
 
 userbot = {}
 
 # ID do administrador
-ADMIN_USER_ID = 5486349822  # Substitua pelo ID real do administrador
+ADMIN_USER_ID = XXXXXXXXXX  # Substitua pelo ID real do administrador
 
 
 def parse_search_query(query):
